@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918271811086",
+    "firebase_url": "https://event-management-app-8305f.firebaseio.com",
+    "project_id": "event-management-app-8305f",
+    "storage_bucket": "event-management-app-8305f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918271811086:android:e0640ba78ffdfbbe",
+        "android_client_info": {
+          "package_name": "com.firepheonix.eventmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918271811086-35h52qhnd1srletdoe7de9gbp2mvetif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firepheonix.eventmanagementapp",
+            "certificate_hash": "76910323e614ff80945528c0359a1491afc1f9e6"
+          }
+        },
+        {
+          "client_id": "918271811086-r0a39if1lfgidhfsg41h6oom5sjfiuss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3zIhRt3zIVyy_UcWxa9SJFbQjOpX8wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918271811086-r0a39if1lfgidhfsg41h6oom5sjfiuss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
