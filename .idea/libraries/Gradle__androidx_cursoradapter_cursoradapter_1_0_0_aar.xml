@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcae6ed5c7b7b72625a5f93ea4fc931c/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dcae6ed5c7b7b72625a5f93ea4fc931c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8e3288d19237093740d84c5748393e7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8e3288d19237093740d84c5748393e7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
